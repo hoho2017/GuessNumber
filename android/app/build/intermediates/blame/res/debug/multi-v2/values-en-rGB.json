@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\29066\\Desktop\\rn\\ap\\apt\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rGB\\values-en-rGB.xml",
+            "outputFile": "C:\\Users\\29066\\Documents\\GitHub\\GuessNumber\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rGB\\values-en-rGB.xml",
             "map": [
                 {
                     "source": "C:\\Users\\29066\\.gradle\\caches\\transforms-2\\files-2.1\\2b7e6ebaa515cd43f42fb356f0d1941c\\appcompat-1.1.0\\res\\values-en-rGB\\values-en-rGB.xml",
